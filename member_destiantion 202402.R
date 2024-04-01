@@ -1,12 +1,15 @@
 install.packages("tidyverse")
+install.packages("ggmap")
+install.packages("ggthemes")
+install.packages("maps")
 library(tidyverse)
 library(ggplot2)
 library(maps)
 library(ggmap)
-library(ggmaps)
 library(ggthemes)
 library(lubridate)
 library(forcats)
+
 Feb2024 <- read_csv("202402-divvy-tripdata.csv")
 
 register_stadiamaps("bf4fda8f-becd-49b9-8421-4dc6bcfd41f1", write = TRUE)
