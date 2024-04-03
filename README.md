@@ -14,3 +14,4 @@ Annual members and casual riders use Cyclistic bikes differently and as such we 
 
 Analyses:
 Click the codes folder in the repository to go indepth with my R code and analysis of each code. Click the analysis folder where I take a deep analysis of each month dataset and bring the data together.
+Click the analysis folder in the repository to go into the analysis of the data created with the R code. 
