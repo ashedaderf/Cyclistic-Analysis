@@ -1,4 +1,4 @@
-
+# cyclistic-analysis
 
 Google Data Analyst Certificate Case Study Cyclistic is a bike-share company launched in 2016 based in Chicago. The Cyclistic bike-share program features over 5800 bicycles and 600 docking stations all across Chicago for cyclists to rent. Cyclistic is different from other bike rental companies in that they offer reclining bikes, hand tricycles, and cargo bikes which makes bikes more inclusive to people with disabilities that can’t use the traditional two wheeled bikes. Cyclistic offers the opportunity for users to ride for leisure or for work commutes with flexibility of their pricing plans: single-ride passes, full-day passes, and annual memberships. Cyclistic refer to consumers buying the single-ride passes and the full-day passes as casual riders and consumers who buy the annual memberships are considered Cyclistic members. Since the launch of Cyclistic in 2016, the finance analysts analyzed data at Cyclistic and concluded that annual members are more profitable than casual riders. Currently, Cyclistic users are more likely to ride for leisure, but about 30% use the bikes to commute to work each day.
 
